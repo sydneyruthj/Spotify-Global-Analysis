@@ -5,6 +5,7 @@
 
 ### Spotify is one of the worlds largest audio streaming services, with over 626 million active users and 246 million paying subscribers.
 ### Using data on the Top 50 charts for each of the countries in which Spotify is available, I examine how music tastes differ by global geography.
+### My final deliverable is a Tableau Storyboard that can be found [here](https://public.tableau.com/views/SpotifyAnalysis_17303301322770/SpotifyStoryboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 ## Objective
 #### The purpose of this analysis was to display how we can quantify the different music tastes of different countries. This analysis could be used by Spotify's recommendations team to examine the ways in which geography can influence their recommendation system.
